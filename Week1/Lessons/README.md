@@ -76,3 +76,76 @@ It was developed by **Google** and is maintained by the **Open Handset Alliance 
 
 ### Android Architecture
 
+
+- **Applications:** Built-in apps like phone, SMS, browser, and third-party apps.  
+- **Framework:** APIs used by developers to create applications.  
+- **Libraries & Runtime:** Core C/C++ libraries and Android Runtime (ART).  
+- **Kernel:** Manages hardware drivers, security, and memory.
+
+### Notable Features
+- Multitasking  
+- Rich UI & Widgets  
+- Open-source flexibility  
+- Google Play Store integration  
+- Regular updates and security patches  
+
+---
+
+## 📲 5. Android Versions (Highlights)
+
+| Version | Code Name | Key Features |
+|----------|------------|--------------|
+| **Android 14 (Upside Down Cake)** | Released 2023 | Improved privacy controls, predictive back gestures |
+| **Android 15 (Vanilla Ice Cream)** | Released 2024 | Satellite messaging support, better camera features |
+| **Android 16 (Codenamed "Emerald")** | Expected 2025 | AI-powered app optimization, energy-efficient processes |
+
+> 📘 **Learn More:**  
+> - [Official Android Developers Guide](https://developer.android.com/guide)  
+> - [Android Version History (Wikipedia)](https://en.wikipedia.org/wiki/Android_version_history)
+
+---
+
+## 🧪 6. Lab Activity (1 Hour)
+
+### 🔧 Activity Title: Identify Mobile Computing Components
+
+**Objective:**  
+To identify the core components of mobile computing based on real-world mobile applications.
+
+**Instructions:**
+1. List five (5) mobile applications you use daily.  
+2. For each, determine:
+   - The **mobile hardware** used  
+   - The **communication technology** involved  
+   - The **software** components  
+3. Present your findings in a short table or infographic.
+
+**Sample Output:**
+
+| App | Hardware | Communication | Software |
+|------|-----------|----------------|-----------|
+| Grab | Smartphone | 4G/5G, GPS | Android OS, Grab App |
+| TikTok | Smartphone | Wi-Fi | Android OS, TikTok App |
+
+---
+
+## 💬 7. Reflection Questions
+
+1. Why is mobile computing considered a key driver of digital transformation?  
+2. How do hardware, software, and communication depend on each other?  
+3. What makes Android different from other mobile operating systems?  
+
+---
+
+## 📚 References & Resources
+
+- Joyosa, A. D. S., Neones, M. R. M., & Robas, C. C. (2024). *Digital Transformation Roadmap: Machine Driven School Operations Intelligence.* ICITE2024 Proceedings.  
+- [Android Developers Official Site](https://developer.android.com/)  
+- [GeeksforGeeks – Introduction to Mobile Computing](https://www.geeksforgeeks.org/introduction-to-mobile-computing/)  
+- [TechTarget – What is Mobile Computing?](https://www.techtarget.com/whatis/definition/mobile-computing)
+
+---
+
+> **Instructor’s Note:**  
+> This lesson introduces the foundation for mobile application development.  
+> In the next session, we’ll explore **mobile app architecture** and begin hands-on setup of the **Android development environment** using Flutter SDK.
